@@ -1,0 +1,199 @@
+Category: Java
+Question: What is the size of an int in Java?
+Options: 16 bits|32 bits|64 bits|8 bits
+Answer: 32 bits
+
+Category: Java
+Question: Which keyword is used to inherit a class in Java?
+Options: implements|inherits|extends|super
+Answer: extends
+
+Category: Java
+Question: Which method is the entry point of any Java program?
+Options: start()|main()|run()|init()
+Answer: main()
+
+Category: Java
+Question: What does JVM stand for?
+Options: Java Variable Manager|Java Virtual Machine|Java Visual Method|Java Virtual Memory
+Answer: Java Virtual Machine
+
+Category: Java
+Question: What is used to handle exceptions in Java?
+Options: try-catch|if-else|switch-case|loop
+Answer: try-catch
+
+Category: Java
+Question: Which of these is not a primitive data type?
+Options: int|boolean|String|double
+Answer: String
+
+Category: Java
+Question: What is the default value of a boolean in Java?
+Options: false|true|null|0
+Answer: false
+
+Category: Java
+Question: Which operator is used for comparison?
+Options: ==|=|+|*
+Answer: ==
+
+Category: Java
+Question: What is the superclass of all classes in Java?
+Options: Object|Main|Class|Parent
+Answer: Object
+
+Category: Java
+Question: What is the extension of a Java compiled file?
+Options: .java|.class|.exe|.obj
+Answer: .class
+
+Category: Data Structures
+Question: Which data structure uses LIFO?
+Options: Stack|Queue|Array|Graph
+Answer: Stack
+
+Category: Data Structures
+Question: Which data structure uses FIFO?
+Options: Queue|Stack|Heap|Graph
+Answer: Queue
+
+Category: Data Structures
+Question: What is the time complexity of binary search?
+Options: O(n)|O(log n)|O(n log n)|O(1)
+Answer: O(log n)
+
+Category: Data Structures
+Question: Which structure is used in BFS?
+Options: Stack|Queue|Tree|Graph
+Answer: Queue
+
+Category: Data Structures
+Question: Which data structure is used in recursion?
+Options: Stack|Queue|Array|LinkedList
+Answer: Stack
+
+Category: Data Structures
+Question: What is the best case time complexity of linear search?
+Options: O(1)|O(n)|O(log n)|O(n^2)
+Answer: O(1)
+
+Category: Data Structures
+Question: What data structure is used in DFS?
+Options: Stack|Queue|Heap|Tree
+Answer: Stack
+
+Category: Data Structures
+Question: Which of the following is a non-linear data structure?
+Options: Array|Stack|Tree|Queue
+Answer: Tree
+
+Category: Data Structures
+Question: What is the maximum number of children a binary tree node can have?
+Options: 1|2|3|4
+Answer: 2
+
+Category: Data Structures
+Question: Which data structure gives fast search and insert?
+Options: Hash Table|Array|Stack|Queue
+Answer: Hash Table
+
+Category: Operating Systems
+Question: Which OS component manages memory?
+Options: Memory Manager|Scheduler|Kernel|Dispatcher
+Answer: Memory Manager
+
+Category: Operating Systems
+Question: What is a process?
+Options: Running program|Thread|Memory|CPU
+Answer: Running program
+
+Category: Operating Systems
+Question: What does CPU scheduling do?
+Options: Allocate memory|Manage files|Choose next process|Restart CPU
+Answer: Choose next process
+
+Category: Operating Systems
+Question: Which of these is a non-preemptive algorithm?
+Options: FCFS|Round Robin|SJF|Priority
+Answer: FCFS
+
+Category: Operating Systems
+Question: What does the kernel do?
+Options: User interface|Schedule tasks|Open files|Display output
+Answer: Schedule tasks
+
+Category: Operating Systems
+Question: Which of these is not a scheduling algorithm?
+Options: FIFO|RR|SJF|LIFO
+Answer: LIFO
+
+Category: Operating Systems
+Question: What is the purpose of a semaphore?
+Options: Synchronization|Memory Management|Scheduling|Interrupts
+Answer: Synchronization
+
+Category: Operating Systems
+Question: What causes a deadlock?
+Options: Circular wait|Single user|Multitasking|Idle CPU
+Answer: Circular wait
+
+Category: Operating Systems
+Question: What is virtual memory?
+Options: Extra memory|Disk space used as RAM|Permanent memory|None
+Answer: Disk space used as RAM
+
+Category: Operating Systems
+Question: What is context switching?
+Options: Switching tasks|Changing windows|Swapping RAM|Booting
+Answer: Switching tasks
+
+Category: Computer Networks
+Question: What does IP stand for?
+Options: Internet Protocol|Internet Program|Internal Protocol|Input Protocol
+Answer: Internet Protocol
+
+Category: Computer Networks
+Question: What layer is TCP in OSI model?
+Options: Transport|Network|Session|Data Link
+Answer: Transport
+
+Category: Computer Networks
+Question: What is the full form of DNS?
+Options: Domain Name System|Digital Network Setup|Domain Network Service|Data Name Source
+Answer: Domain Name System
+
+Category: Computer Networks
+Question: What device forwards data packets?
+Options: Router|Switch|Hub|Modem
+Answer: Router
+
+Category: Computer Networks
+Question: What protocol is used to send emails?
+Options: SMTP|HTTP|FTP|SNMP
+Answer: SMTP
+
+Category: Computer Networks
+Question: Which of the following uses port 80?
+Options: HTTP|FTP|DNS|SSH
+Answer: HTTP
+
+Category: Computer Networks
+Question: What is the speed unit in networks?
+Options: Mbps|RPM|Hz|dB
+Answer: Mbps
+
+Category: Computer Networks
+Question: Which topology connects all devices to a central node?
+Options: Star|Bus|Ring|Mesh
+Answer: Star
+
+Category: Computer Networks
+Question: What is used to uniquely identify devices on a network?
+Options: IP Address|MAC|Subnet|Gateway
+Answer: IP Address
+
+Category: Computer Networks
+Question: Which protocol is connectionless?
+Options: UDP|TCP|FTP|SMTP
+Answer: UDP
